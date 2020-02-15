@@ -22,3 +22,5 @@ R-RoadMaps contains two scripts to create a map by road designation, all built i
 Here is an example of San Jose, CA colored by its road designations: 
 <img src="san_jose_map_large.png" align="middle" height="666.57044" width="500">
 
+The title and the legend are added manually in Photoshop.
+
