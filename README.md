@@ -20,3 +20,4 @@ R-RoadMaps contains two scripts to create a map by road designation, all built i
 
 ## Example of a Map
 Here is an example of San Jose, CA colored by its road designations: 
+![San Jose Example Map](san_jose_map_large.png)
